@@ -11,9 +11,9 @@ Create a git Account
 Step 2.
 Download GitHub Desktop to clone the project
 
-<aside>
-🔗 [https://desktop.github.com](https://desktop.github.com/)
-</aside>
+
+🔗 https://desktop.github.com
+
 
 Step3.
 Go Github and clone the url to GitHub Desktop
